@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "cheerio": "^0.19.0",
-    "cookiejar": "^2.0.1",
+    "cookiejar": "danielmcq/node-cookiejar",
     "request": "^2.57.0"
   },
   "description": "A screen scraper for America First Credit Union written in ES",
