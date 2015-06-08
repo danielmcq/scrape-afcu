@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "cookiejar": "^2.0.1",
+    "request": "^2.57.0"
+  },
+  "description": "A screen scraper for America First Credit Union written in ES",
+  "devDependencies": {},
+  "license": "MIT",
+  "name": "scrape-afcu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielmcq/scrape-afcu"
+  },
+  "version": "0.0.1"
+}
