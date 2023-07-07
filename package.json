@@ -2,7 +2,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "request": "^2.57.0",
-    "tough-cookie": "^4.0.0",
+    "tough-cookie": "^4.1.3",
     "tough-cookie-filestore": "0.0.1"
   },
   "description": "A screen scraper for America First Credit Union written in ES",
